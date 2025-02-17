@@ -19,7 +19,7 @@ Aplikasi ini Di Buat untuk UKK RPL 2024/2025 Pada 21 February 2025
 # Panduan Penggunaan 
 1.Buat file index.html
 
-2.Simpan semua file di satu folder (index.html, style.css, dan script.js).
+2.Simpan file di satu folder (index.html, style.css, dan script.js).
 
 3.Buka index.html di browser.
 
