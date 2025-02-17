@@ -19,8 +19,8 @@ Aplikasi ini Di Buat untuk UKK RPL 2024/2025 Pada 21 February 2025
 # Panduan Penggunaan 
 
 # Made By
-
-
+Muhammad khatami Ramadhan,KelasXII
+RPL2,SMKN 1 SEMPARUK 
 
 
 
